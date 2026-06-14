@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "724253407928",
+    "project_id": "ecotrack-82e79",
+    "storage_bucket": "ecotrack-82e79.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724253407928:android:3dfa9d24cdbdc8db3ad24d",
+        "android_client_info": {
+          "package_name": "com.example.ecotrack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz-Jn4BEDGXcUhH9NVOnSXM6yhxDAp_QQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
