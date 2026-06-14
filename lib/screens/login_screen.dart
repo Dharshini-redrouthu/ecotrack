@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import '../firebase/auth_service.dart';
 import 'signup_screen.dart';
 import 'home_screen.dart';
+import 'main_screen.dart';
 
 class LoginScreen extends StatefulWidget {
   const LoginScreen({super.key});
@@ -46,7 +47,7 @@ class _LoginScreenState extends State<LoginScreen> {
               onPressed: () {
                 Navigator.push(
                   context,
-                  MaterialPageRoute(builder: (_) => const SignupScreen()),
+                  MaterialPageRoute(builder: (_) => const MainScreen()),
                 );
               },
               child: const Text("Create account"),
